@@ -17,7 +17,7 @@ int main()
 ****
 ****
 
-// Online C compiler to run C program online
+
 #include <stdio.h>
 
 int main() 
@@ -36,7 +36,6 @@ int main()
 3333
 4444
 
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int main() 
@@ -55,7 +54,6 @@ int main()
 1234
 1234
 
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int main() 
@@ -74,7 +72,6 @@ BBBB
 CCCC
 DDDD
 
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int main() 
@@ -93,7 +90,6 @@ ABCD
 ABCD
 ABCD
 
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int main() 
@@ -112,7 +108,6 @@ int main()
 **
 *
 
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int main() 
@@ -133,7 +128,6 @@ int main()
  ***
 ****
 
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int main() 
